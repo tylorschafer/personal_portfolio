@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+db.sqlite3
 personal_portfolio/__pycache__/settings.cpython-37.pyc
 *.py[cod]
 

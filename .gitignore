@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-personal_portfolio/__pycache__/
+personal_portfolio/__pycache__/settings.cpython-37.pyc
 *.py[cod]
 
 # C extensions
